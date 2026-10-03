@@ -18,7 +18,7 @@
 
 ## Мой стек
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,docker,postgres,git,linux,vscode&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=py&theme=dark&perline=10" />
 
 <br/>
 
