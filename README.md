@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Привет,%20я%20ТВОЁ_ИМЯ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Разработчик%20%7C%20Python%20%E2%80%A2%20JS%20%E2%80%A2%20Node.js&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Саламалейкум,%20я%20анчоус&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Разработчик%20%7C%20Python%20%E2%80%A2%20JS%20%E2%80%A2%20Node.js&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/shluhanagerione-coder">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Люблю+писать+код;Делаю+крутые+проекты;Всегда+открыт+к+новому;Let's+build+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Люблю+писать;Делаю+крутость;Всегда+открытость;Let's+build+something+cool!" alt="Typing SVG" />
 </a>
 
 <br/>
