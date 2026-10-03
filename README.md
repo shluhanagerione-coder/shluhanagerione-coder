@@ -18,7 +18,7 @@
 
 ## Мой стек
 
-<img src="https://skillicons.dev/icons?i=py&theme=dark&perline=10" />
+
 
 <br/>
 
