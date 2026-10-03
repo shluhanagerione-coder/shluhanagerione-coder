@@ -35,7 +35,7 @@
 
 ## Трофеи
 
-<img src="https://github-profile-trophy.vercel.app/?username=shluhanagerione-coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+
 
 <br/>
 
